@@ -1,10 +1,12 @@
 <img width="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG02cXl1NXZ1ejMzdmV2aDU1bXRoOTdteWZmZmw4OTRrNGFjdmJ4dCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/caTZdz1GHL6wzXsjGY/giphy.gif" align="right" />
 <h1 align="left">About Me</h1>
-<h3 align="left">A boundary-pushing software engineer crafting celestial solutions on the Space Coast.</h3>
+<h3 align="left">A boundary-pushing software engineer crafting celestial solutions.</h3>
 
-Hey there, I'm Jay. I'm a computer scientist from the Space Coast.
+Hey there, I'm Jay. I'm a computer scientist hailing from the Space Coast.
 
-I am a passionate computer lover who discovered my interest in technology during my adolescence. I became interested in computers after being attracted by game programming in Unity and Unreal. My curiosity grew beyond software creation over time, and I began to delve into the inner workings of these interesting machines. This inspired me to create my own gaming engines and bare metal systems, allowing me to obtain a better understanding of computer architecture. Seeking new challenges, I also moved into full stack web development, expanding my skill set. I am currently a motivated computer science student who intends to pursue this job full-time. I hope to make important contributions to the ever-evolving scientific community, driven by an insatiable curiosity.
+I am a passionate computer lover who discovered my interest in technology during my adolescence. I became interested in computers after being attracted by game programming in Unity and Unreal. My curiosity grew beyond software creation over time, and I began to delve into the inner workings of these interesting machines. This inspired me to create my graphical engines and bare metal systems, allowing me to obtain a better understanding of computer architecture. Seeking new challenges, I also moved into full stack web development, expanding my skill set. 
+
+I am currently a motivated computer science student who intends to pursue this job full-time. I hope to make important contributions to the ever-evolving scientific community, driven by an insatiable curiosity.
 
 Nowadays, I've developed a strong interest in reverse engineering, delving into the world of uncovering the mysteries hidden behind sophisticated software systems. I've concentrated on learning x86 assembly language and exploring the skill of reading binaries. 
 
