@@ -8,7 +8,7 @@ I am a passionate computer lover who discovered my interest in technology during
 
 I am currently a motivated computer science student who intends to pursue this job full-time. I hope to make important contributions to the ever-evolving scientific community, driven by an insatiable curiosity.
 
-Nowadays, I've developed a strong interest in reverse engineering, delving into the world of uncovering the mysteries hidden behind sophisticated software systems. I've concentrated on learning x86 assembly language and exploring the skill of reading binaries. 
+Nowadays, I've developed a strong interest in reverse engineering, delving into the world of uncovering the mysteries hidden behind sophisticated software systems. I've concentrated on learning assembly languages and exploring the skill of reading binaries. 
 
 ---
 
