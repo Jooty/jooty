@@ -2,7 +2,7 @@
 <h1 align="left">About Me</h1>
 <h3 align="left">A boundary-pushing software engineer crafting celestial solutions.</h3>
 
-Hey there, I'm Jay. I'm a computer scientist hailing from the Space Coast.
+Hey there, I'm Jay.
 
 I am currently a motivated computer science student who intends to pursue this job full-time. I hope to make important contributions to the ever-evolving scientific community, driven by an insatiable curiosity.
 
