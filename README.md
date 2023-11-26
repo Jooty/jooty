@@ -1,8 +1,5 @@
 <img width="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG02cXl1NXZ1ejMzdmV2aDU1bXRoOTdteWZmZmw4OTRrNGFjdmJ4dCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/caTZdz1GHL6wzXsjGY/giphy.gif" align="right" />
-<h1 align="left">About Me</h1>
-<h3 align="left">A boundary-pushing software engineer crafting celestial solutions.</h3>
-
-Hey there, I'm Jay.
+<h1 align="left">Hey there, I'm Jay.</h1>
 
 I am currently a motivated computer science student who intends to pursue this job full-time. I hope to make important contributions to the ever-evolving scientific community, driven by an insatiable curiosity.
 
