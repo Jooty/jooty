@@ -4,5 +4,7 @@
 
 I like taking things apart to see how they work, both software or hardware. Most of my work leans toward reverse engineering and low-level systems, but I’ve also spent time with web dev, embedded programming, and hardware tinkering. An insatiable curiosity.
 
+Probably messing with a broken homelab right about now.
+
 ---
 
